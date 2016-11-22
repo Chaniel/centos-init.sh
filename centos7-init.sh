@@ -5,3 +5,5 @@ yum install -y vim
 yum install -y openssl openssl-devel
 yum install -y wget
 yum install psmisc
+yum install -y git
+yum install -y ntp
