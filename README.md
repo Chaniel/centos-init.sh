@@ -1,21 +1,21 @@
 # centos-init.sh
 centos init scripts
 
-#### kernel parameters optimize(optional)
+### kernel parameters optimize(optional)
 
 
-#### time sync
+### time sync
 timezone set to Hong_Kong, seee netqyq/time_sync
 crontab
 
 
 
-#### install common tools
+### install common tools
 ntp
 vim
 
 ...
 
 
-#### install dev tools
+### install dev tools
 git
