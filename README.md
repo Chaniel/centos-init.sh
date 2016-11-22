@@ -6,7 +6,7 @@ centos init scripts
 
 - time sync
 ```
-timezone set to Hong_Kong, seee netqyq/time_sync
+timezone set to Hong_Kong, see netqyq/time_sync
 crontab
 ```
 
