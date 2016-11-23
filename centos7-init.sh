@@ -7,3 +7,4 @@ yum install -y wget
 yum install psmisc
 yum install -y git
 yum install -y ntp
+yum install -y rsync
